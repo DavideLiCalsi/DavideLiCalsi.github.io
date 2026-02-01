@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at the Technical University of Vienna, supervide by Professor [Dominique Schröder](https://www.dominique-schroeder.de).
+I am a PhD student in Computer Science at the Technical University of Vienna, supervised by Professor [Dominique Schröder](https://www.dominique-schroeder.de).
 
 
 Research Interests
