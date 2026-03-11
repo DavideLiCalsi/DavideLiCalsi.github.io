@@ -23,6 +23,16 @@ Research Experience
   * Topic: Repair of Deep Neural Networks
   * Supervisors: Fuyuki Ishikawa, Paolo Arcaini
 
+Research Visits
+======
+* 23rd-27th February 2026: Professor Charalampos Papamanthou
+  * Yale University, New Haven
+
+External Reviews (Selected)
+======
+European Symposium on Research in Computer Security (ESORICS): 2025, 2026
+ACM Conference on Computer and Communications Security (CCS): 2026
+
 
 Publications
 ======
