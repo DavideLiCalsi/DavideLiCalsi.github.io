@@ -30,8 +30,8 @@ Research Visits
 
 External Reviews (Selected)
 ======
-European Symposium on Research in Computer Security (ESORICS): 2025, 2026
-ACM Conference on Computer and Communications Security (CCS): 2026
+* European Symposium on Research in Computer Security (ESORICS): 2025, 2026
+* ACM Conference on Computer and Communications Security (CCS): 2026
 
 
 Publications
