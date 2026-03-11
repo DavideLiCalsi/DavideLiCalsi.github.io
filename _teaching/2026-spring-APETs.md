@@ -1,5 +1,5 @@
 ---
-title: "Advanced Privacy-Enhancing Technologies"
+title: "Advanced Privacy-Enhancing Technologies - 2026"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
