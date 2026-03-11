@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cryptography, TU Wien, Wien, 2025-now
+* Research Assistant in Quantum Cryptography, TU Munich, Munich, 2022-2025
+* M.S. in Computer Engineering - Cybersecurity Track, Milan's Polytechnic  University, Milan, 2020-2022
+* B.S. in Computer Engineering, Milan's Polytechnic  University, Milan, 2017-2020
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2023: Research Internship
+  * National Institute of Informatics, Tokyo
+  * Topic: Repair of Deep Neural Networks
+  * Supervisors: Fuyuki Ishikawa, Paolo Arcaini
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -59,6 +42,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
